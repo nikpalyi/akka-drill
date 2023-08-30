@@ -1,23 +1,4 @@
 
-
-
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/akka-cookbook/9781785288180)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1785288180).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
-# Akka Cookbook
-This is the code repository for [Akka Cookbook](https://www.packtpub.com/application-development/akka-cookbook?utm_source=github&utm_medium=repository&utm_content=9781785288180), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
-
-## About the book
-Akka is an open source toolkit that simplifies the construction of distributed and concurrent applications on the JVM. This book will teach you how to develop reactive applications in Scala using the Akka framework.
-
-This book will show you how to build concurrent, scalable, and reactive applications in Akka. You will see how to create high performance applications, extend applications, build microservices with Lagom, and more.
-
-We will explore Akka's actor model and show you how to incorporate concurrency into your applications. The book puts a special emphasis on performance improvement and how to make an application available for users. We also make a special mention of message routing and construction.
-
-By the end of this book, you will be able to create a high-performing Scala application using the Akka framework.
-
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter 06.
 
